@@ -4,11 +4,6 @@
 
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Soham+Sahasrabudhe;Computer+Engineering+2027+%40+DYPIT+Pune;AI+%2F+ML+%2B+Backend+Developer;Building+useful+things+with+Python)](https://git.io/typing-svg)
-
-</div>
-
 ## About me
 
 - Final-year Computer Engineering student (B.E. 2027) at Dr. D. Y. Patil Institute of Technology, Pune - CGPA 8.49/10
@@ -37,6 +32,13 @@
   <img src="https://streak-stats.demolab.com?user=sohams5002&theme=transparent" height="165" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohams5002&layout=compact&theme=transparent" height="165" alt="Top languages" />
 </div>
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohams5002/sohams5002/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sohams5002/sohams5002/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Connect with me
 
