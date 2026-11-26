@@ -4,6 +4,11 @@
 
 </div>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Soham+Sahasrabudhe;Computer+Engineering+2027+%40+DYPIT+Pune;AI+%2F+ML+%2B+Backend+Developer;Building+useful+things+with+Python)](https://git.io/typing-svg)
+
+</div>
+
 ## About me
 
 - Final-year Computer Engineering student (B.E. 2027) at Dr. D. Y. Patil Institute of Technology, Pune - CGPA 8.49/10
@@ -35,7 +40,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Sahasrabudhe-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sahasrabudhe-369968226)
-[![Email](https://img.shields.io/badge/Email-sahasrabudhesoham%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sahasrabudhesoham@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sahasrabudhe-369968226)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahasrabudhesoham@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=sohams5002&color=2E9EF7&style=flat)
